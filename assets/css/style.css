@@ -73,7 +73,7 @@ h4 {
 
 .history-heading,
 .section-heading {
-    font-family: "Exo" , sans-serif;
+    font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
@@ -273,7 +273,7 @@ footer {
     width: 60%;
 }
 
-/*---------------------skill section*/ 
+/*---------------------skill section*/
 
 .progress {
     position: relative;
@@ -321,7 +321,7 @@ footer {
     left: 2.5em;
     top: 3em;
     display: block;
-    font-family: "Exo" , sans-serif;
+    font-family: "Exo", sans-serif;
     font-weight: 500;
     font-size: 0.8em;
     padding: 0;
@@ -338,7 +338,7 @@ footer {
     border-radius: 12px;
     content: '';
     background-color: #fafafa;
-} 
+}
 
 .history-items {
     margin-bottom: 30px;
@@ -374,5 +374,5 @@ button[type="submit"] {
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
-    }    
+    }
 }
